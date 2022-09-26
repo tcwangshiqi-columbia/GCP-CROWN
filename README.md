@@ -87,7 +87,7 @@ python abcrown.py --config exp_configs/GCP-CROWN/cifar_cnn_a_mix4.yaml # cifar_c
 ### BibTex Entry
 
 ```
-@article{zhang2022bcpcrown,
+@article{zhang2022gcpcrown,
   title={General Cutting Planes for Bound-Propagation-Based Neural Network Verification},
   author={Zhang, Huan and Wang, Shiqi and Xu, Kaidi and Li, Linyi and Li, Bo and Jana, Suman and Hsieh, Cho-Jui and Kolter, J Zico},
   journal={Advances in Neural Information Processing Systems},
